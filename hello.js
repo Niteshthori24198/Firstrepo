@@ -19,3 +19,9 @@ class Heap {
     heapify() { }
     buildHeap() { }
 }
+
+
+const h = new Heap();
+
+h.insert();
+h.remove();
