@@ -18,6 +18,7 @@ class Heap {
     remove() { }
     heapify() { }
     buildHeap() { }
+    display() { }
 }
 
 
@@ -27,3 +28,4 @@ h.insert();
 h.remove();
 h.heapify();
 h.buildHeap();
+h.display();
