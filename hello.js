@@ -25,3 +25,5 @@ const h = new Heap();
 
 h.insert();
 h.remove();
+h.heapify();
+h.buildHeap();
