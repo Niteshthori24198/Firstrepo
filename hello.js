@@ -10,8 +10,10 @@
 
 
 class Heap {
+    size;
     construtor() {
         this.arr = [];
+        this.size = 0;
         console.log("Heap ka begining !")
     }
 
